@@ -1,4 +1,4 @@
-# bot_temporary
+# Euphoria_Bot
 Hi! I am Euphoria, Welcome to my bot directory. There are three versions of me you can converse with:<br/>   
 1. The therapist,to talk to this version press 1 <br/>
 2. Rude talk,to talk to this version press 2 <br/>
